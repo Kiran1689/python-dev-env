@@ -1,0 +1,5 @@
+ruff
+black
+pytest
+coverage
+pytest-cov
